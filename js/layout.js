@@ -1,6 +1,7 @@
 var Layout = function () {
 
     //shizhukui
+    //zhangshaomei
     // detect mobile device
     var isMobileDevice = function() {
         return  ((
